@@ -9,10 +9,10 @@ The project focuses on transforming the existing school website experience into 
 ## 🚀 Live Demo
 
 **Live Website:**
-`Add your Vercel/Netlify deployment URL here`
+`https://netpuppy-tulsa-assignment.netlify.app/`
 
 **GitHub Repository:**
-`Add your public GitHub repository URL here`
+`https://github.com/laya33304/netpuppy--tulsa-assignment`
 
 ---
 
@@ -214,8 +214,6 @@ Navigation links use section anchors to provide smooth movement between major ho
 - CSS transitions and animations
 - Scroll-based reveal animations
 
-
-
 ## 📁 Project Structure
 
 ```text
@@ -307,8 +305,6 @@ lucide-react
 react-icons
 ```
 
-
-
 ## 📱 Responsive Design
 
 The homepage is designed and tested for different viewport sizes.
@@ -358,7 +354,6 @@ https://tis.edu.in/
 
 The school logo and visual assets used in the project are sourced from the official Tulas International School website.
 
-
 ## 📈 Performance Considerations
 
 The project aims to maintain a smooth experience while using animations and visual assets.
@@ -372,7 +367,6 @@ Performance considerations include:
 - Responsive image usage
 - Avoiding unnecessary re-renders
 - Keeping animations subtle and purposeful
-
 
 ## 🎯 Assessment Goals
 
